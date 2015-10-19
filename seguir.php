@@ -10,7 +10,7 @@
 		<meta property="og:description" content="Aprende cómo integrar Facebook en tu propia web." />
 		<meta property="og:image" content="http://q-interactiva.com/clientes/v2b/facebook/img/img_fb.png" />
 
-		<title>Integración con Facebook</title>
+		<title>Integración co Facebook</title>
 		<?php include 'headers.php'; ?>
 	</head>
 	<body>
